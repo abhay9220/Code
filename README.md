@@ -1,7 +1,7 @@
-# HackerRank
-# Python(Basic)
+### HackerRank
+### Python(Basic)
 
-code 01 - Python If-Else /
+# code 01 - Python If-Else 
 code 02 - Arithmetic Operators
 code 03 - Python: Division
 code 04 - Loops
