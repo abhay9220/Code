@@ -11,3 +11,6 @@
 ### code 08 - Nested Lists
 ### code 09 - Finding the percentage
 ### code 10 - Lists
+### code 11 - Alphabet Rangoli
+### code 12 - Capitalize!
+### code 13 - itertools.product()
